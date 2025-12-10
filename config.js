@@ -1,6 +1,6 @@
 module.exports = {
     client: {
-        token: "MTAwNDczODExODcxNDQwMDc2OQ.Goni_p.uqFLu84JfkUfaNN0UMn0znTKwWBHhjl7AKKrB4", //id token discord
+        token: "MTAwNDczODExODcxNDQwMDc2OQ.G9YHuA.dwskjUe05LJgoKzGA1M-yQLko9OJMQ935M_nF8", //id token discord
         id: "1004738118714400769", //id bot discord
         guild: "1444311082331275397", //id guild server
     },
