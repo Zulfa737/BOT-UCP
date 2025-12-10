@@ -1,6 +1,6 @@
 module.exports = {
     client: {
-        token: "MTAwNDczODExODcxNDQwMDc2OQ.G9YHuA.dwskjUe05LJgoKzGA1M-yQLko9OJMQ935M_nF8", //id token discord
+        token: "MTAwNDczODExODcxNDQwMDc2OQ.G1rGdu.vFWxqoeDR7UhSfc5HW29kratpIR02fB1Kn_1O4", //id token discord
         id: "1004738118714400769", //id bot discord
         guild: "1444311082331275397", //id guild server
     },
@@ -15,8 +15,8 @@ module.exports = {
         database: "s21_server", //your name databasew
     },
     github: {
-    	username: "", // Username Github Kamu
-    	token: "", // Tokens Github Kamu
+    	username: "Zulfa737", // Username Github Kamu
+    	token: "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", // Tokens Github Kamu
     },
     backup: {
         folder: './backups',
